@@ -1,2 +1,2 @@
-# Rreact-learning-project
+# React-learning-project
 Just for learning purpose
